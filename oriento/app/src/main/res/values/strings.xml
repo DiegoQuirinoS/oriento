@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">oriento</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gps_disabled">gps desabilitado</string>
+    <string name="gps_disabled_title">Deseja Habilitar</string>
+    <string name="enable">Sim</string>
+    <string name="cancel">cancelar</string>
+    <string name="singer">Texto teste</string>
+</resources>
